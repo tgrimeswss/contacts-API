@@ -1,6 +1,6 @@
 # Contact creator
 
-Credits: Udacity.com React Course
+Credits: Udacity.com React Nano-degree program
 
 
 ### What this project is:
